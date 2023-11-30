@@ -8,22 +8,15 @@ I was into nerdy things at a young age - loved Star Wars, saved my Basic program
 
 Graduated high school ( *Go Tigers!* ) and went to college at Texas A&M University where i majored in Computer Engineering. Truth be told I probably majored in basketball cause I played a ton of it during college.\
 After college I worked for various companies some very large and some very small before finding my place at Asurion. ( [My LinkedIn Profile](https://www.linkedin.com/in/paigegary/ "https://www.linkedin.com/in/paigegary/") )\
+
 ​​​​​​​I am married and have a teenage daughter who has started college in Graphic Design and Animation at MTSU.\
 Why argvader? That is my gamer tag and the name I used during my hacker days. I wasnt like Kevin Mitnick or anything but was a little mischievous. Now I use it for github, games, slack etc. 
 
 * * * * *
 
-### What is my role?
 
-[](https://asurion.sharepoint.com/teams/ProductEngineering/SitePages/Manager-Readme--Gary-Paige.aspx#what-is-my-role)
-
-I am a Director of Engineering but what does that mean? I foster great product engineering teams. I am part of the recruiting process to help find talented diverse folks. I have a technical background so I can bounce engineering ideas. I care deeply about the members on a team and how they work. I help team members grow in their chosen career. I am an advocate for the team and its individuals.
-
-* * * * *
 
 ### What are my values?
-
-[](https://asurion.sharepoint.com/teams/ProductEngineering/SitePages/Manager-Readme--Gary-Paige.aspx#what-are-my-values)
 
 Kaizen - "continual improvement". I firmly believe in always trying to improve both as an individual and a team.
 
