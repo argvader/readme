@@ -2,7 +2,7 @@
 
 [](https://asurion.sharepoint.com/teams/ProductEngineering/SitePages/Manager-Readme--Gary-Paige.aspx#about-m%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8Be)
 
-I grew up in Ripon, Wisconsin a small town known as the birthplace of the Republican party. We have a small liberal arts college claiming Harrison Ford as student ( *he didn't graduate *).
+I grew up in Ripon, Wisconsin where we have a small liberal arts college claiming Harrison Ford as student ( *he didn't graduate *).
 
 I was into nerdy things at a young age - loved Star Wars, saved my Basic programs on cassette tapes, was in gifted and talented in high school for math and art, was also into sports - playing football, wrestling, and ran track.
 
