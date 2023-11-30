@@ -7,7 +7,7 @@ I grew up in Ripon, Wisconsin where we have a small liberal arts college claimin
 I was into nerdy things at a young age - loved Star Wars, saved my Basic programs on cassette tapes, was in gifted and talented in high school for math and art, was also into sports - playing football, wrestling, and ran track.
 
 Graduated high school ( *Go Tigers!* ) and went to college at Texas A&M University where i majored in Computer Engineering. Truth be told I probably majored in basketball cause I played a ton of it during college.\
-After college I worked for various companies some very large and some very small before finding my place at Asurion. ( [My LinkedIn Profile](https://www.linkedin.com/in/paigegary/ "https://www.linkedin.com/in/paigegary/") )\
+After college I worked for various companies some very large and some very small before finding my place at Asurion. ( [My LinkedIn Profile](https://www.linkedin.com/in/paigegary/ "https://www.linkedin.com/in/paigegary/") )
 
 ​​​​​​​I am married and have a teenage daughter who has started college in Graphic Design and Animation at MTSU.\
 Why argvader? That is my gamer tag and the name I used during my hacker days. I wasnt like Kevin Mitnick or anything but was a little mischievous. Now I use it for github, games, slack etc. 
