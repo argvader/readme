@@ -37,7 +37,7 @@ Individuals - I value the skills, the ideas, the struggles, the culture,  the i
 
 [](https://asurion.sharepoint.com/teams/ProductEngineering/SitePages/Manager-Readme--Gary-Paige.aspx#what-are-my-strengths)
 
-While a person is more sophisticated than a personality test result, it is eerie how these results fit.  [Personality Results](https://www.crystalknows.com/p/garypaige "https://www.crystalknows.com/p/garypaige")
+While a person is more sophisticated than a personality test result, it is eerie how close these results fit.  [Personality Results](https://www.crystalknows.com/p/garypaige "https://www.crystalknows.com/p/garypaige")
 
 I am a Counselor\
 "*Gary is likely to take time to understand a problem and perceive the emotional elements of a situation before taking action. He can tend to be patient, steadfast, and may emphasize the individual needs of teammates over personal ambitions.*"
