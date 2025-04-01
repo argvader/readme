@@ -9,7 +9,7 @@ I was into nerdy things at a young age - loved Star Wars, saved my Basic program
 Graduated high school ( *Go Tigers!* ) and went to college at Texas A&M University where i majored in Computer Engineering. Truth be told I probably majored in basketball cause I played a ton of it during college.\
 After college I worked for various companies some very large and some very small. ( [My LinkedIn Profile](https://www.linkedin.com/in/paigegary/ "https://www.linkedin.com/in/paigegary/") )
 
-​​​​​​​I am married and have a teenage daughter who has started college in Graphic Design and Animation at MTSU.\\
+​​​​​​​I am married and have a teenage daughter who has started college in Graphic Design and Animation at MTSU.\ \
 
 Why argvader? That is my gamer/developer/hacker tag. Initially I used argv for the c/c++ main method command line but it was often taken. Yes I did say hacker - I wasnt like Kevin Mitnick or anything but was a little mischievous. Now I use it for github, games, slack etc. 
 
